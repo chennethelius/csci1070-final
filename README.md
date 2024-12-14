@@ -1,2 +1,2 @@
 # stock-price-prediction
- training various models on stock priving
+ training various models on stock pricing
